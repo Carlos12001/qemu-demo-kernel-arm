@@ -211,7 +211,7 @@ exec /bin/sh
 Haz que el script sea ejecutable:
 
 ```bash
-chmod +x rootfs/init
+sudo chmod +x rootfs/init
 ```
 
 ### 7.4. Crear Directorios Necesarios
