@@ -1,6 +1,6 @@
 # Tutorial Completo: Crear y Ejecutar un Sistema Linux Minimalista en QEMU ARM
 
-Este tutorial te guiará paso a paso para construir y ejecutar un sistema Linux minimalista en una máquina virtual ARM utilizando QEMU. Seguiremos el enfoque del tutorial "Minimalistic Linux system on QEMU ARM", pero actualizaremos los pasos para evitar errores comunes y asegurarnos de que todo funcione correctamente.
+Este tutorial te guiará paso a paso para construir y ejecutar un sistema Linux minimalista en una máquina virtual ARM utilizando QEMU. Seguiremos el enfoque del tutorial "Minimalistic Linux system on QEMU ARM".
 
 ## Paso 1: Preparar el Entorno
 
