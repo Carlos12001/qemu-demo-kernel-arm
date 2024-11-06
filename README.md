@@ -107,7 +107,7 @@ make ARCH=arm CROSS_COMPILE=arm-linux-gnueabi- dtbs
 El archivo `versatile-pb.dtb` se encuentra en:
 
 ```
-arch/arm/boot/dts/arm/versatile-pb.dtb
+ls arch/arm/boot/dts/arm/versatile-pb.dtb
 ```
 
 ## Paso 5: Descargar y Preparar BusyBox
